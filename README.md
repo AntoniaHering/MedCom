@@ -29,7 +29,7 @@ For doctors: <br/>
 ### Preparation:
 In order to visualize how the MedCom app works, a prototype was built in Figma. The prototype is accessible through the link below:
 Figma: https://www.figma.com/proto/Q49FOHFvSgJ5M5cHCJu4Hk/MedCom-prototype?node-id=5711%3A23483&scaling=scale-down
-The overview of screens used in MedCom:
+### The overview of screens used in MedCom:
 The details of each screen in the app are described below:
 1. Welcome screen:
 
