@@ -4,9 +4,9 @@ MedCom aims at improving the kidney stone journey by providing trustworthy infor
 ### Software:
 Figma: https://www.figma.com
 ### Hardware:
-MacOS based solution (our solution): iPad with no further requirements
-Windows based solution: tablet or computer with no further requirements
-Small QR code stands: At the doctors’ offices or clinics, in order for the patients to get connected with their doctors upon scanning the QR code.
+- MacOS and android based solution: iPad, iPhone or android phones with no further requirements
+- Windows based solution: tablet or computer with no further requirements
+- Small QR code stands: At the doctors’ offices or clinics, in order for the patients to get connected with their doctors upon scanning the QR code.
 ## Story:
 MedCom is a software solution, developed by students of Technical University Munich during the Tech Challenge in the summer semester 2020/2021 in collaboration with Dornier MedTech company. The aim was to help solve many challenges that rise for both the healthcare professionals and patients with kidney stones along their way. MedCom provides the right solution to this challenge by addressing the main pain points. The process of creating the prototype is explained in this document.
 ### What is MedCom?
